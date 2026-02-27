@@ -1,4 +1,4 @@
-# **Joystick Music Player **
+# Joystick Music Player 
 
 This project uses an Arduino Uno, an arcade joystick, and a DY-SV5W audio module to create a movement-triggered music player that shuffles and fades.
 
